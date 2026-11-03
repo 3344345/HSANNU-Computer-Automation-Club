@@ -19,8 +19,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/你的用户名/chatbot.git
-cd chatbot
+git clone https://github.com/3344345/HSANNU-Computer-Automation-Club.git
+cd HSANNU-Computer-Automation-Club
 ```
 
 ### 2. 创建虚拟环境并安装依赖
